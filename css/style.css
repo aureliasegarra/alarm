@@ -42,10 +42,9 @@ body {
 }
 
 .second-hand {
-    background-color: #ffffff;
-}
-
-.second-hand {
+    background-color: #fffdd8;
     height: 3px;
-    
+}
+.hour-hand {
+    background-color: rgb(77, 76, 76);
 }
